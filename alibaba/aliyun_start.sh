@@ -14,4 +14,3 @@ do
   fi
 done
     echo "Complete all jobs!!"
-~
